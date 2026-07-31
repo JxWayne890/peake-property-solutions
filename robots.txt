@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://peake-property-solutions.vercel.app/sitemap.xml
+
+Sitemap: https://peake-ps.vercel.app/sitemap.xml
